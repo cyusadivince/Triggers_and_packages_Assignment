@@ -1,6 +1,6 @@
 ```
 
--- Combined Triggers
+-- Combined Triggers for checking some violation
 
 -- Create single trigger that does both functions
 CREATE OR REPLACE TRIGGER trg_university_policy
